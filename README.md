@@ -37,3 +37,4 @@ return new JdbcCursorItemReaderBuilder<Person>()
 
 #### reader
 https://docs.spring.io/spring-batch/reference/readers-and-writers/database.html
+https://medium.com/@shashibheemanapally/using-a-jparepository-to-read-and-write-records-in-a-database-using-spring-batch-fb8aeb40ec57
