@@ -1,4 +1,4 @@
-package com.parvin.springbatch;
+package com.parvin.springbatch.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

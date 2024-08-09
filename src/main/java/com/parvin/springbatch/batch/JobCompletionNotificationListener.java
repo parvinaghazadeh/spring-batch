@@ -1,4 +1,4 @@
-package com.parvin.springbatch;
+package com.parvin.springbatch.batch;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

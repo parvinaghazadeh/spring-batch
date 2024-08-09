@@ -1,5 +1,6 @@
-package com.parvin.springbatch;
+package com.parvin.springbatch.batch;
 
+import com.parvin.springbatch.model.DataModel;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.batch.core.Job;
